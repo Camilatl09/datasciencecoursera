@@ -1,0 +1,12 @@
+---
+title: "Hello World"
+author: "Camila Toledo"
+date: "13/7/2020"
+output: word_document
+---
+## This is a markdown file
+
+```{r}
+print("Hello World")
+```
+
